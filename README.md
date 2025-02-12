@@ -5,13 +5,13 @@
 
 | University | Department | Status |
 |------------|------------|:------:|
-| UC Berkeley | Integrative Biology | 🗣️ Interviewed |
 | Cornell | Computational Biology | ✅ Accepted |
-| University of Chicago | Ecology & Evolution | 📅 Interviewing Soon |
-| UC Davis | Population Biology | 🗣️ Interviewed |
 | University of Oregon | Biology | ✅ Accepted |
-| University of Michigan | Ecology & Evolutionary Biology | 📅 Interviewing Soon |
+| UC Berkeley | Integrative Biology | 🗣️ Interviewed |
+| UC Davis | Population Biology | 🗣️ Interviewed |
 | University of Minnesota | Plant & Microbial Biology | 🗣️ Interviewed |
+| University of Chicago | Ecology & Evolution | 📅 Interviewing Soon |
+| University of Michigan | Ecology & Evolutionary Biology | 📅 Interviewing Soon |
 | UC Santa Cruz | Ecology & Evolutionary Biology | 📅 Interviewing Soon |
 
 ## 📁 Repository Structure
