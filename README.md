@@ -3,16 +3,16 @@
 
 ## 📊 Current Application Status
 
-| University | Department | Status | US Ranking, Biology | US Ranking, Evolutionary Bio |
-|------------|------------|:------:|:---:|:---:|
-| UC Berkeley | Integrative Biology | ✅ Accepted | 3 | ? |
-| Cornell | Computational Biology | ✅ Accepted | 11 | 1 |
-| University of Oregon | Biology | ✅ Accepted | 68 | ? |
-| UC Davis | Population Biology | 🗣️ Interviewed | 17 | 2 |
-| University of Michigan | Ecology & Evolutionary Biology | 🗣️ Interviewed | 23 | 9 |
-| University of Minnesota | Plant & Microbial Biology | 🗣️ Interviewed | 46 | ? |
-| University of Chicago | Ecology & Evolution | 📅 Interviewing Soon | 11 | 10 | 
-| UC Santa Cruz | Ecology & Evolutionary Biology | 📅 Interviewing Soon | 58 | ? |
+US Ranking, Evolutionary Bio | University | Department | Status | US Ranking, Biology |
+|:---:|------------|------------|:------:|:---:|:---:|
+| 1 | UC Berkeley | Integrative Biology | ✅ Accepted | 3 |
+| 1 | Cornell | Computational Biology | ✅ Accepted | 11 |
+| ? | University of Oregon | Biology | ✅ Accepted | 68 |
+| 2 | UC Davis | Population Biology | 🗣️ Interviewed | 17 |
+| 9 | University of Michigan | Ecology & Evolutionary Biology | 🗣️ Interviewed | 23 |
+| ? | University of Minnesota | Plant & Microbial Biology | 🗣️ Interviewed | 46 |
+| 10 | University of Chicago | Ecology & Evolution | 📅 Interviewing Soon | 11 | 
+| ? | UC Santa Cruz | Ecology & Evolutionary Biology | 📅 Interviewing Soon | 58 |
 
 ## 📁 Repository Structure
 
