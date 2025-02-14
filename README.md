@@ -4,7 +4,7 @@
 ## 📊 Current Application Status
 
 | University | Department | Status | US Ranking, Biology | US Ranking, Evolutionary Bio |
-|------------|------------|:------:|:------:|:------:|
+|------------|------------|:------:|:---:|:---:|
 | UC Berkeley | Integrative Biology | ✅ Accepted | 3 | ? |
 | Cornell | Computational Biology | ✅ Accepted | 11 | 1 |
 | University of Oregon | Biology | ✅ Accepted | 68 | ? |
