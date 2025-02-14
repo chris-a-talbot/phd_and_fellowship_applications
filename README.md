@@ -3,10 +3,10 @@
 
 ## 📊 Current Application Status
 
-| University | Department | Status | US Ranking, Biology | US Ranking, Evolution |
+| University | Department | Status | US Ranking, Biology | US Ranking, Evolutionary Bio |
 |------------|------------|:------:|:------:|:------:|
-| Cornell | Computational Biology | ✅ Accepted | 11 | 1 |
 | UC Berkeley | Integrative Biology | ✅ Accepted | 3 | ? |
+| Cornell | Computational Biology | ✅ Accepted | 11 | 1 |
 | University of Oregon | Biology | ✅ Accepted | 68 | ? |
 | UC Davis | Population Biology | 🗣️ Interviewed | 17 | 2 |
 | University of Michigan | Ecology & Evolutionary Biology | 🗣️ Interviewed | 23 | 9 |
