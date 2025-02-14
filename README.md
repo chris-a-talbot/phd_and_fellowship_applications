@@ -3,16 +3,16 @@
 
 ## 📊 Current Application Status
 
-| University | Department | Status |
-|------------|------------|:------:|
-| Cornell | Computational Biology | ✅ Accepted |
-| UC Berkeley | Integrative Biology | ✅ Accepted |
-| University of Oregon | Biology | ✅ Accepted |
-| UC Davis | Population Biology | 🗣️ Interviewed |
-| University of Michigan | Ecology & Evolutionary Biology | 🗣️ Interviewed |
-| University of Minnesota | Plant & Microbial Biology | 🗣️ Interviewed |
-| University of Chicago | Ecology & Evolution | 📅 Interviewing Soon |
-| UC Santa Cruz | Ecology & Evolutionary Biology | 📅 Interviewing Soon |
+| University | Department | Status | US Ranking, Biology | US Ranking, Evolution |
+|------------|------------|:------:|:------:|:------:|
+| Cornell | Computational Biology | ✅ Accepted | 11 | 1 |
+| UC Berkeley | Integrative Biology | ✅ Accepted | 3 | ? |
+| University of Oregon | Biology | ✅ Accepted | 68 | ? |
+| UC Davis | Population Biology | 🗣️ Interviewed | 17 | 2 |
+| University of Michigan | Ecology & Evolutionary Biology | 🗣️ Interviewed | 23 | 9 |
+| University of Minnesota | Plant & Microbial Biology | 🗣️ Interviewed | 46 | ? |
+| University of Chicago | Ecology & Evolution | 📅 Interviewing Soon | 11 | 10 | 
+| UC Santa Cruz | Ecology & Evolutionary Biology | 📅 Interviewing Soon | 58 | ? |
 
 ## 📁 Repository Structure
 
