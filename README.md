@@ -7,10 +7,10 @@ US Ranking, Evolutionary Bio | University | Department | Status | US Ranking, Bi
 |:---:|------------|------------|:------:|:---:|
 | 1 | UC Berkeley | Integrative Biology | ✅ Accepted | 3 |
 | 1 | Cornell | Computational Biology | ✅ Accepted | 11 |
+| ? | University of Minnesota | Plant & Microbial Biology | ✅ Accepted | 46 |
 | ? | University of Oregon | Biology | ✅ Accepted | 68 |
 | 2 | UC Davis | Population Biology | 🗣️ Interviewed | 17 |
 | 9 | University of Michigan | Ecology & Evolutionary Biology | 🗣️ Interviewed | 23 |
-| ? | University of Minnesota | Plant & Microbial Biology | 🗣️ Interviewed | 46 |
 | 10 | University of Chicago | Ecology & Evolution | 📅 Interviewing Soon | 11 | 
 | ? | UC Santa Cruz | Ecology & Evolutionary Biology | 📅 Interviewing Soon | 58 |
 
