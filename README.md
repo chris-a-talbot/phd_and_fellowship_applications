@@ -3,16 +3,16 @@
 
 ## 📊 Current Application Status
 
-US Ranking, Evolutionary Bio | University | Department | Status | US Ranking, Biology |
+US Ranking, Evolutionary Bio | University | Department | Status |
 |:---:|------------|------------|:------:|:---:|
-| 1 | UC Berkeley | Integrative Biology | ✅ Accepted | 3 |
-| 1 | Cornell | Computational Biology | ✅ Accepted | 11 |
-| ? | University of Minnesota | Plant & Microbial Biology | ✅ Accepted | 46 |
-| ? | University of Oregon | Biology | ✅ Accepted | 68 |
-| 2 | UC Davis | Population Biology | 🗣️ Interviewed | 17 |
-| 9 | University of Michigan | Ecology & Evolutionary Biology | 🗣️ Interviewed | 23 |
-| 10 | University of Chicago | Ecology & Evolution | 📅 Interviewing Soon | 11 | 
-| ? | UC Santa Cruz | Ecology & Evolutionary Biology | 📅 Interviewing Soon | 58 |
+| 1 | Cornell University | Computational Biology | 🎉 Matriculated |
+| 1 | UC Berkeley | Integrative Biology | ✅ Accepted |
+| 2 | UC Davis | Population Biology | ✅ Accepted |
+| ? | UC Santa Cruz | Ecology & Evolutionary Biology | ✅ Accepted |
+| 10 | University of Chicago | Ecology & Evolution | ✅ Accepted |
+| 9 | University of Michigan | Ecology & Evolutionary Biology | ✅ Accepted |
+| ? | University of Minnesota | Plant & Microbial Biology | ✅ Accepted |
+| ? | University of Oregon | Biology | ✅ Accepted |
 
 ## 📁 Repository Structure
 
@@ -102,6 +102,6 @@ US Ranking, Evolutionary Bio | University | Department | Status | US Ranking, Bi
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-*Last Updated: 2/11/2025*
+*Last Updated: 4/18/2025*
 
 *Note: This repository is meant to serve as a resource for future graduate school applicants. All sensitive information has been removed, and materials are shared with appropriate permissions.*
