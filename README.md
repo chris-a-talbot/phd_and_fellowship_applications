@@ -4,7 +4,7 @@
 ## 📊 Current Application Status
 
 US Ranking, Evolutionary Bio | University | Department | Status |
-|:---:|------------|------------|:------:|:---:|
+|:---:|------------|------------|:------:|
 | 1 | Cornell University | Computational Biology | 🎉 Matriculated |
 | 1 | UC Berkeley | Integrative Biology | ✅ Accepted |
 | 2 | UC Davis | Population Biology | ✅ Accepted |
