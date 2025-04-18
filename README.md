@@ -3,16 +3,16 @@
 
 ## 📊 Current Application Status
 
-US Ranking, Evolutionary Bio | University | Department | Status |
-|:-:|------------|------------|:------:|
-| 1 | Cornell University | Computational Biology | 🎉 Matriculated |
-| 1 | UC Berkeley | Integrative Biology | ✅ Accepted |
-| 2 | UC Davis | Population Biology | ✅ Accepted |
-| ? | UC Santa Cruz | Ecology & Evolutionary Biology | ✅ Accepted |
-| 10 | University of Chicago | Ecology & Evolution | ✅ Accepted |
-| 9 | University of Michigan | Ecology & Evolutionary Biology | ✅ Accepted |
-| ? | University of Minnesota | Plant & Microbial Biology | ✅ Accepted |
-| ? | University of Oregon | Biology | ✅ Accepted |
+University | Department | Status |
+|------------|------------|:------:|
+| Cornell University | Computational Biology | 🎉 Matriculated |
+| UC Berkeley | Integrative Biology | ✅ Accepted |
+| UC Davis | Population Biology | ✅ Accepted |
+| UC Santa Cruz | Ecology & Evolutionary Biology | ✅ Accepted |
+| University of Chicago | Ecology & Evolution | ✅ Accepted |
+| University of Michigan | Ecology & Evolutionary Biology | ✅ Accepted |
+| University of Minnesota | Plant & Microbial Biology | ✅ Accepted |
+| University of Oregon | Biology | ✅ Accepted |
 
 ## 📁 Repository Structure
 
