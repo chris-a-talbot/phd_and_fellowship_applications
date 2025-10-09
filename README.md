@@ -1,6 +1,15 @@
-# 🎓 Graduate School Applications (2025 Cycle)
+# 🎓 PhD and Fellowship Applications
 
 ## 📊 Current Application Status
+
+### 🏆 Fellowships
+
+Fellowship | Application Year | Status |
+|------------|------------------|:------:|
+| NSF Graduate Research Fellowship Program (GRFP) | 2024 | ✅ Received (2025) |
+| Hertz Fellowship | 2025 | In Progress |
+
+### 🎓 PhD Programs (2025 Cycle)
 
 University | Department | Status |
 |------------|------------|:------:|
@@ -13,63 +22,10 @@ University | Department | Status |
 | University of Minnesota | Plant & Microbial Biology | ✅ Accepted |
 | University of Oregon | Biology | ✅ Accepted |
 
-## 📁 Repository Structure
-
-## 💡 Application Process Overview
-
-### Timeline
-- **Spring 2024**
-
-- **Summer 2024**
-
-- **Fall 2024**
-
-- **Winter 2025**
-
-### Research Statement Tips
-
-### Personal Statement Tips
-
-### CV Development
-
-## 🎯 Program Research Process
-
-## 📧 Contacting Potential Advisors
-
-## 💻 Application Submission Tips
-
-## 🗣️ Interview Preparation
-### Before the Interview
-
-### During the Interview
-
-### After the Interview
-
-## 🏫 Campus Visits
-### What to Pack
-
-### Questions to Ask
-
-### Things to Observe
-
-## 📊 Application Statistics
-- Total Applications: 8
-- Interviews: 8
-- Acceptances: 8
-- Success Rate: 100%
-
-## 💭 Reflections
-### What Worked Well
-
-
-### What I Would Do Differently
-
-## 📫 Contact
-
 ## ⚖️ License
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-*Last Updated: 5/05/2025*
+*Last Updated: 10/09/2025*
 
-*Note: This repository is meant to serve as a resource for future graduate school applicants.*
+*Note: This repository is meant to serve as a resource for future PhD and fellowship applicants.*
