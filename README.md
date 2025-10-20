@@ -16,13 +16,13 @@ Fellowship | Application Year | Status |
 University | Department | Status |
 |------------|------------|:------:|
 | Cornell University | Computational Biology | 🎉 Matriculated |
-| UC Berkeley | Integrative Biology | ✅ Accepted |
-| UC Davis | Population Biology | ✅ Accepted |
-| UC Santa Cruz | Ecology & Evolutionary Biology | ✅ Accepted |
-| University of Chicago | Ecology & Evolution | ✅ Accepted |
-| University of Michigan | Ecology & Evolutionary Biology | ✅ Accepted |
-| University of Minnesota | Plant & Microbial Biology | ✅ Accepted |
-| University of Oregon | Biology | ✅ Accepted |
+| UC Berkeley | Integrative Biology | ✅ Offer Received |
+| UC Davis | Population Biology | ✅ Offer Received |
+| UC Santa Cruz | Ecology & Evolutionary Biology | ✅ Offer Received |
+| University of Chicago | Ecology & Evolution | ✅ Offer Received |
+| University of Michigan | Ecology & Evolutionary Biology | ✅ Offer Received |
+| University of Minnesota | Plant & Microbial Biology | ✅ Offer Received |
+| University of Oregon | Biology | ✅ Offer Received |
 
 ## ⚖️ License
 This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
