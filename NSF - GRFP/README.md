@@ -40,6 +40,10 @@ The GRFP statements are very compact and formulaic. Check out previous successfu
 
 GRFP reviewers read a ton of essays and have the difficult task of scoring each one relative to the others. The best thing you can do is make your essays easily navigable for them as they look for key rubric items or study design features. You can do this by following the structure they expect (see successful applicants) and by being more direct than you think in your research statement. Reviewers should be able to skim your essay and find you addressing your *questions* ("Q1", "Q2", etc.), *hypotheses* ("I hypothesize that..."), *feasibility* ("This project is feasible because..."), and how you'll *measure success* ("Successful completion of this project will result in..."). Be very, very clear and forward about the intellectual merit and broader impacts - give specifics (e.g. "I will go to XYZ museum via XYZ program to present my work," "I will address a fundamental question to XYZ field, ..."). 
 
+## Focus on science, not methods
+
+In life sciences, the reviewers are looking to see if you are a promising *scientist*, not just a methods developer. Focus more on the science than the methods. Why are you doing what you're doing? What are your key questions? Why do they matter? Why haven't they been answered yet? Why is your approach the best way to answer them? And, when you talk about your past research, focus less on *what* you did and more on *why* you did it. What question were you trying to answer, and what results did you find? Flex your methodological muscles a little, but don't make them the main event.
+
 ## Quantify success
 
 Measuring success is important both for intellectual merit (how will you know that you've successfully completed an aim or answered a question?) and broader impacts (e.g. if you plan to teach this to high schoolers, how will you measure the impact it has had on students?).
