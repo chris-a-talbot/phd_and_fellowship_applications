@@ -10,17 +10,17 @@ The GRFP statements are very compact and formulaic. Check out previous successfu
 
 ### Research Statement
 
-Section 1: Introduction/Background (header optional but recommended). Introduce your project in about 1 paragraph. Introduce the gap your research will fill. Typically, research statements have "aims" (3 on average), which are sort of like steps in your research. These should be highlighted in some way. The reviewers are also looking for a strong understanding of the scientific method - developing questions, hypotheses, and approaches to test them. As such, you want to highlight your particular research questions. You may have one in each aim, or have some aims without aims, or have some aims with multiple. Regardless, introduce them here, but you don't need to share your hypothesis.
+**Section 1**: Introduction/Background (header optional but recommended). Introduce your project in about 1 paragraph. Introduce the gap your research will fill. Typically, research statements have "aims" (3 on average), which are sort of like steps in your research. These should be highlighted in some way. The reviewers are also looking for a strong understanding of the scientific method - developing questions, hypotheses, and approaches to test them. As such, you want to highlight your particular research questions. You may have one in each aim, or have some aims without aims, or have some aims with multiple. Regardless, introduce them here, but you don't need to share your hypothesis.
 
-Section 2: Research plan. Typically, this is divided into aims. Detail why each aim is necessary, how you'll complete it (this doesn't need to be the equivalent of your methods section in a paper - it should be clear, feasible, but brief), and how you'll define success for each aim. If your aim has associated questions, restate them, provide a hypothesis, and frame the section as leading up to testing the hypothesis. If some aims rely on other aims, ensure you detail what you'll do if those other aims fail.
+**Section 2**: Research plan. Typically, this is divided into aims. Detail why each aim is necessary, how you'll complete it (this doesn't need to be the equivalent of your methods section in a paper - it should be clear, feasible, but brief), and how you'll define success for each aim. If your aim has associated questions, restate them, provide a hypothesis, and frame the section as leading up to testing the hypothesis. If some aims rely on other aims, ensure you detail what you'll do if those other aims fail.
 
-Section 3: Intellectual Merit (include the header, in bold). This section is meant to detail how your research project contributes to the broader intellectual/academic community. What fundamental, long-standing questions or paradigms are you contributing to? Did you develop methods that will be useful for other scientific questions?
+**Section 3**: Intellectual Merit (include the header, in bold). This section is meant to detail how your research project contributes to the broader intellectual/academic community. What fundamental, long-standing questions or paradigms are you contributing to? Did you develop methods that will be useful for other scientific questions?
 
-Section 4: Broader Impacts (include the header, in bold). This section is meant to detail how your research project will impact broader society. This may be super straightforward - e.g. if you're doing cancer research - or less so, e.g. if you're studying theoretical math. Regardless, you should detail specific plans for science communication and outreach. Will you design a museum exhibit? Teach a class on the subject? Create interactive interfaces? Include undergraduates in the work? 
+**Section 4**: Broader Impacts (include the header, in bold). This section is meant to detail how your research project will impact broader society. This may be super straightforward - e.g. if you're doing cancer research - or less so, e.g. if you're studying theoretical math. Regardless, you should detail specific plans for science communication and outreach. Will you design a museum exhibit? Teach a class on the subject? Create interactive interfaces? Include undergraduates in the work? 
 
-Section 5: References (include the header, in bold). Your references can be super, super abbreviated. All you really need is: "[First name] et al. [year] [abbreviated journal name]". For example, <sup>1</sup>Deraje et al. 2022 _Evol_. Your in-text citations can also be numbers in tiny font superscript. This will save you lots of space.
+**Section 5**: References (include the header, in bold). Your references can be super, super abbreviated. All you really need is: "[First name] et al. [year] [abbreviated journal name]". For example, <sup>1</sup>Deraje et al. 2022 _Evol_. Your in-text citations can also be numbers in tiny font superscript. This will save you lots of space.
 
-Optional additional sections: 
+**Optional additional sections**: 
 
 - Figure (typically, at most 1). Only include a figure if it notably enhances or clarifies your research plan. 
 
@@ -28,13 +28,13 @@ Optional additional sections:
 
 ### Personal Statement
 
-Section 1: Introduction (no need for a header). This often takes up one to two-thirds of a page. Make a personal connection with your research topic, express why you're passionate, or do whatever else you want in this space.
+**Section 1**: Introduction (no need for a header). This often takes up one to two-thirds of a page. Make a personal connection with your research topic, express why you're passionate, or do whatever else you want in this space.
 
-Section 2: Intellectual Merit (include the header, in bold, on its own line). This is your chance to explain why you're qualified to do the research you propose in your research statement, while emphasizing a personal connection to the research and displaying personal growth. This is typically the longest section, at least 1 page but often closer to 1.5 pages.
+**Section 2**: Intellectual Merit (include the header, in bold, on its own line). This is your chance to explain why you're qualified to do the research you propose in your research statement, while emphasizing a personal connection to the research and displaying personal growth. This is typically the longest section, at least 1 page but often closer to 1.5 pages.
 
-Section 3: Broader Impacts (include the header, in bold, on its own line). This is your chance to explain how you've contributed to broader society from a scientific perspective. Include any teaching experience, science communication, volunteering, or other work that demonstrates community outreach, especially as it relates to science. Continue emphasizing personal connections and growth. This section is often around a page long.
+**Section 3**: Broader Impacts (include the header, in bold, on its own line). This is your chance to explain how you've contributed to broader society from a scientific perspective. Include any teaching experience, science communication, volunteering, or other work that demonstrates community outreach, especially as it relates to science. Continue emphasizing personal connections and growth. This section is often around a page long.
 
-Optional additional sections: Feel free to incorporate other headers you think may improve your application. For example, my personal statement included a paragraph under the header "Future Goals." The GRFP is looking for scientists with an interest in continued scientific development (e.g. going into research careers), so find a way to emphasize this in your statement somewhere.
+**Optional additional sections**: Feel free to incorporate other headers you think may improve your application. For example, my personal statement included a paragraph under the header "Future Goals." The GRFP is looking for scientists with an interest in continued scientific development (e.g. going into research careers), so find a way to emphasize this in your statement somewhere.
 
 ## Make it easy to navigate for reviewers
 
