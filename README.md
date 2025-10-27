@@ -7,7 +7,7 @@
 Fellowship | Application Year | Status |
 |------------|------------------|:------:|
 | NSF Graduate Research Fellowship Program (GRFP) | 2024 | ✅ Received (2025) |
-| Hertz Fellowship | 2025 | In Progress |
+| Hertz Fellowship | 2025 | Submitted |
 | DoE Computational Science Graduate Fellowship (CSGF) | 2025 | In Progress |
 
 ### 🎓 PhD Programs (2025 Cycle)
